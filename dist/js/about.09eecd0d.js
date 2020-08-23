@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["about"],{f820:function(t,a,e){"use strict";e.r(a);var n=function(){var t=this,a=t.$createElement;t._self._c;return t._m(0)},s=[function(){var t=this,a=t.$createElement,e=t._self._c||a;return e("div",{staticClass:"about"},[e("h1",[t._v("This is a TodoList made by @himanshura1221")]),e("h1",[t._v("GitHub:himanshuagarwal12")])])}],i=e("2877"),u={},r=Object(i["a"])(u,n,s,!1,null,null,null);a["default"]=r.exports}}]);
+//# sourceMappingURL=about.09eecd0d.js.map
