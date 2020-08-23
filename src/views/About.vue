@@ -1,6 +1,6 @@
 <template>
   <div class="about">
-    <h1>About</h1>
-    <p>This is the TodoList app v1.0.0. It is part of the Vue crash course on Youtube</p>
+    <h1>This is a TodoList made by @himanshura1221</h1>
+    <h1>GitHub:himanshuagarwal12</h1>
   </div>
 </template>

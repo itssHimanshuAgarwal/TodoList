@@ -1,16 +1,24 @@
-# Vue Crash Course (TodoList)
+# todo-list
 
-This is the code for [the crash course on YouTube](https://youtu.be/Wy9q22isx3U)
-
-## Quick Start
-
-```bash
-# Install dependencies
+## Project setup
+```
 npm install
+```
 
-# Serve on localhost:8080
+### Compiles and hot-reloads for development
+```
 npm run serve
+```
 
-# Build for production
+### Compiles and minifies for production
+```
 npm run build
 ```
+
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
